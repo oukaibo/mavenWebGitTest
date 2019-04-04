@@ -6,6 +6,8 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 		for(int i=0;i<5;i++) {
 			System.out.println("aaaaaa");
+			//测试拉取项目，操作步骤
+			System.out.println("测试拉取项目，操作步骤");
 		}
 	}
 
