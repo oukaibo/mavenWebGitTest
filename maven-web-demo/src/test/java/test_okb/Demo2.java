@@ -8,6 +8,7 @@ public class Demo2 {
 			//测试拉取项目，操作步骤
 			System.out.println("测试在项目中新增一个文件，操作步骤");
 			System.out.println("测试checkout");
+			System.out.println("测试eclipse直接提交");
 		}
 	}
 
